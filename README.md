@@ -1,6 +1,6 @@
 # Book Directory Project
 
-A RESTful API for managing a book directory built with Node.js, Express, TypeScript, and MongoDB.
+A RESTful API for managing a book directory built with Node.js, Express, TypeScript, MongoDB and Mongoose.
 
 ## Features
 
